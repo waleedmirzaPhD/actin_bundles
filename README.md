@@ -1,3 +1,11 @@
+**Note:** This code reproduces **Figure 2b(I)** from the following scientific publication:  
+> **"Theory of active self-organization of dense nematic structures in the actin cytoskeleton"**  
+> *Waleed Mirza, Marco De Corato, Marco Pensalfini, Guillermo Vilanova, Alejandro Torres-Sànchez, Marino Arroyo*  
+> [eLife Reviewed Preprint (2024)](https://elifesciences.org/reviewed-preprints/93097)
+
+
+
+
 # Installation Instructions for HiperLife and Project Compilation
 
 ## 1. Install Required Dependencies
