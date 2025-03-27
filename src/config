@@ -1,0 +1,67 @@
+nx = 400
+
+ny = 400
+
+
+
+fMesh = /lordvader/waleed/src/CortexBestiary/CortexNematic2D/meshFiles/circle_n1.vtk
+
+visc      = 0.1
+
+cvisc     = -0.2
+
+rvisc = 1
+
+frank   = 2
+
+
+lambda_iso   = 3.46008684795435584664
+
+lambda_aniso  =   3.11407816315892026
+
+
+
+crossLinker = 3.80609553274979143
+
+ 
+lambda_rot   = -6.
+
+kp           = 1
+
+kd           = 1
+
+fric    = 1.
+
+sus20    = 5
+
+sus40    = 20
+
+deltat  = 0.8
+
+linTol = 1e-8
+
+resTol = 1e-8
+
+solTol = 1e-8
+
+maxIter = 8
+
+r_in = 2.0
+
+linImax = 10000
+
+maxDelt = 0.4
+
+adaptiveStepTime = 0.8
+
+nPrint = 10
+
+t_stall = -10.0
+
+cCheck = false
+
+r_out = 127
+ 
+heqb = 1
+
+noiseStrength=1E-4
